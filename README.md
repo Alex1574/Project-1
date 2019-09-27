@@ -40,3 +40,6 @@ My favorite food that I make occasionally for dinner. I make baked chicken parme
 11. When the oil is nice and hot, add the cutlets and fry for 4 minutes on each side until golden and crusty, turning once.
 12. Ladle the tomato-olive sauce over the chicken and sprinkle with mozzarella, Parmesan, and basil. 
 13. Bake the Chicken Parmesan for 15 minutes or until the cheese is bubbly. Serve hot with spaghetti.
+
+# Notes
+If you would like to you may choose a certain kind of bread crumb, or different kind of tomatoes depneding on your prference.
