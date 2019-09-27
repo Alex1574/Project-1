@@ -11,20 +11,20 @@ My favorite food that I make occasionally for dinner. I make baked chicken parme
 
 # Ingredients
 
-- 1/4 cup of extra virgin olive oil, plus 3 tablespoons
-- 2 garlic cloves. minced
-- 1/2 bunch fresh basil leaves
-- 2(28-ounce) cans whole peeled tomatoes drained and hand crushed
-- Pinch of sugar 
-- Kosher salt and freshly ground pepper
-- 4 skinless, boneless, chicken breasts (about 1 1/2 lbs)
-- 1/2 cup of all-purpose flour
-- 2 large eggs, lightly beaten
-- 1 tablespoon of water
-- 1 cup of dried bread crumbs
-- 1 (8-ounce) ball fresh buffalo mozzarella, water drained
-- Freshly grated parmesan
-- 1 lbs spaghetti pasta, cooked al dente
+- [1/4 cup of extra virgin olive oil, plus 3 tablespoons]()
+- [2 garlic cloves. minced]()
+- [1/2 bunch fresh basil leaves]()
+- [2(28-ounce) cans whole peeled tomatoes drained and hand crushed]()
+- [Pinch of sugar]()
+- [Kosher salt and freshly ground pepper]()
+- [4 skinless, boneless, chicken breasts (about 1 1/2 lbs)]() 
+- [1/2 cup of all-purpose flour](https://www.walmart.com/ip/2-Pack-Wheat-Montana-Premium-All-Purpose-Flour-10-lb/322300173?wmlspartner=wlpa&selectedSellerId=0&adid=22222222227240855279&wl0=&wl1=g&wl2=c&wl3=286592889726&wl4=pla-484923652759&wl5=9002030&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=online&wl12=322300173&veh=sem&gclid=EAIaIQobChMI85C7ypjx5AIVkJ6fCh1VbQnREAkYASABEgLcNPD_BwE)
+- [2 large eggs, lightly beaten]()
+- [1 tablespoon of water]()
+- [1 cup of dried bread crumbs]()
+- [1 (8-ounce) ball fresh buffalo mozzarella, water drained]()
+- [Freshly grated parmesan]()
+- [1 lbs spaghetti pasta, cooked al dente]()
 
 # Directions
 1. Coat a saute pan with olive oil and place over medium heat. When the oil gets hazy add garlic; cook and stir for 5 minutes until fragrant and soft.
