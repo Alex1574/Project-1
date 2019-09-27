@@ -2,7 +2,7 @@
 
 My favorite food that I make occasionally for dinner. I make baked chicken parmeasan.
 
-
+![Image of Chicken Parm](./Chicken parm.jpg)
 - **Prep:** 25 mins
 - **Cook:** 40 mins
 - **Total:** 1 h 5 mins
