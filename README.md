@@ -8,7 +8,7 @@ My favorite food that I make occasionally for dinner. I make baked chicken parme
 - **Cook:** 40 mins
 - **Total:** 1 h 5 mins
 - **Servings:** 4 Servings
-- **Total Cost** $x.x
+- **Total Cost** $40.59
 
 # Ingredients
 
